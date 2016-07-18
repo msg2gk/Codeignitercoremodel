@@ -76,9 +76,6 @@ class MY_Model extends CI_Model {
         $this->db->delete($this->_table_name);
     }
 
-//    $condition="name=Gunjan"
-//    $condition="name=Gunjan & City=Bhopal and so on"
-//    $condition="name like %gunjan"
 
     public function get_all_data($condition = NULL) {
         if ($condition != NULL) {
