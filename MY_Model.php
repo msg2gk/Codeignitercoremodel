@@ -1,16 +1,6 @@
 <?php
 
 /* Base model to provide to functionality.Just extent new model form User_db.
- *
- * CI CoreModel
- *
- * This class handles user account related functionality
- * Feel Free for any Question
- * Call me +91 8109943480, 8986359160
- * 
- * @author		Gunjan Srivastava
- * @email               msg2gk@gmail.com, gunjansrivastava2016@gmail.com
- * @link		http://developmentsday.com
  */
 
 class MY_Model extends CI_Model {
